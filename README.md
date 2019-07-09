@@ -5,7 +5,7 @@ SIMPLE TOOLS FOR CHECKING WEBS VULN SCANNER
 -TERMUX-
 $ apt install git -y
 $ apt install python2 -y
-$ git clone https://github.com/BlackCyberTeam/B-DORK
+$ git clone https://github.com/BCA-X666X-TEAM/B-DORK
 $ cd B-DORK
 $ ls
 $ python2 BLACK-DORK.py
